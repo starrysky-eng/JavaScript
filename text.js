@@ -7,3 +7,12 @@ console.log(result);
 
 let array = ['item1','item2','item3']
 console.log(array);
+
+const SampleClass = class{
+    constructor(){
+
+    }
+    sum(){
+        
+    }
+}
